@@ -1,0 +1,8 @@
+langdetect
+pandas
+SQLAlchemy
+numpy
+nltk
+Flask
+plotly
+scikit_learn
